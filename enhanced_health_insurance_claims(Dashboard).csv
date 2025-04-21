@@ -1,0 +1,28 @@
+ProviderSpecialty,Sum of ClaimAmount,,ClaimMonth,Count of ClaimID,,,,,ClaimStatus,Count of ClaimID,ClaimStatus
+Cardiology,4549260.15,,Apr-2023,168,,,,,Approved,1522,Approved
+General Practice,4384549.77,,Apr-2024,166,,,,,Denied,1512,Denied
+Neurology,4303188.87,,Aug-2022,192,,,,,Pending,1466,Pending
+Orthopedics,4408874.73,,Aug-2023,193,,,,,Grand Total,4500,Grand Total
+Pediatrics,4918043.88,,Dec-2022,188,,,,,,,
+Grand Total,22563917.4,,Dec-2023,174,,,,,,,
+,,,Feb-2023,170,,,,,,,
+,,,Feb-2024,180,,,,,,,
+,,,Jan-2023,205,,,,,,,
+,,,Jan-2024,190,,,,,,,
+,,,Jul-2022,135,,,,,,,
+,,,Jul-2023,176,,,,,,,
+,,,Jul-2024,42,,,,,,,
+,,,Jun-2023,214,,,,,,,
+,,,Jun-2024,163,,,,,,,
+,,,Mar-2023,190,,,,,,,
+,,,Mar-2024,185,,,,,,,
+,,,May-2023,212,,,,,,,
+,,,May-2024,185,,,,,,,
+,,,Nov-2022,192,,,,,,,
+,,,Nov-2023,211,,,,,,,
+,,,Oct-2022,197,,,,,,,
+,,,Oct-2023,188,,,,,,,
+,,,Sep-2022,176,,,,,,,
+,,,Sep-2023,208,,,,,,,
+,,,(blank),,,,,,,,
+,,,Grand Total,4500,,,,,,,
